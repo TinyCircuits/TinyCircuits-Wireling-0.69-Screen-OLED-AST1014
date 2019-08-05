@@ -63,6 +63,3 @@ class TinyCircuits_SSD1306 {
 };
 
 #endif		//TinyCircuits_SSD1306_H_ 
-
-
-

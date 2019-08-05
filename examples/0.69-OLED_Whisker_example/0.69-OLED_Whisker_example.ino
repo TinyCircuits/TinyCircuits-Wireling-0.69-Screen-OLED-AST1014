@@ -56,13 +56,13 @@ void setup() {
   /****Resets the Whisker Screen****/
   pinMode(4, OUTPUT);
   digitalWrite(4, HIGH);
-  delay(10);
+  delay(100);
   pinMode(A0, OUTPUT);
   digitalWrite(A0, LOW);
-  delay(10);
+  delay(100);
   pinMode(A0, OUTPUT);
   digitalWrite(A0, HIGH);
-  delay(10);
+  delay(100);
   /********************************/
 
   //Clear Display Buffer, isn't fully cleared here, frame buffer must be sent
