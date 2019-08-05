@@ -3,7 +3,7 @@
  * This code will display text and a Sprite at the same time when compiled. 
  *
  * Hardware by: TinyCircuits
- * Written by: Ben Rose, Laverena Wienclaw, & Hunter Hykes for TinyCircuits
+ * Written by: Ben Rose, Laverena Wienclaw for TinyCircuits
  *
  * Initiated: Mon. 11/20/2017 
  * Updated: Tue. 07/03/2018
