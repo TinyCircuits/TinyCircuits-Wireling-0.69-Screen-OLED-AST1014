@@ -1,6 +1,7 @@
 /************************************************************************
- * SSD1306 WhiskerBoard 0.69" OLED Display Demo/Test Code -
- * This code will display text and a Sprite at the same time when compiled. 
+ * SSD1306 0.69" OLED Display Whisker Demo/Test Code -
+ * This code will display text, and a Sprite from the exampleSprites.h at 
+ * the same time when uploaded. 
  *
  * Hardware by: TinyCircuits
  * Written by: Ben Rose, Laverena Wienclaw for TinyCircuits
@@ -51,7 +52,6 @@ int textPos;         // Used to make text move left or right
 
 void setup() {
   Wire.begin();   // Begin I2C communication
-  // Wire.setClock(1000000); // Makes stuff fast
   
   /****Resets the Whisker Screen****/
   pinMode(4, OUTPUT);
