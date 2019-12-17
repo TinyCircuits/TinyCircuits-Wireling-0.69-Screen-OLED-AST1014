@@ -1,7 +1,7 @@
-# TinyCircuits Whisker 0.69 Screen OLED
+# TinyCircuits Wireling 0.69 Screen OLED
 # AST1014 Rev1
 
-The design files are located under design_files/ for the TinyCircuits AST1014 Rev 1 PCB. This is a whisker board which features a 96x16 pixel White Monochrome OLED display which can be controlled using the TinyCircuits TinierScreen library.
+The design files are located under design_files/ for the TinyCircuits AST1014 Rev 1 PCB. This is a Wireling board which features a 96x16 pixel White Monochrome OLED display which can be controlled using the TinyCircuits TinierScreen library.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
